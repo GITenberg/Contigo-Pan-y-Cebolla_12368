@@ -1,0 +1,33 @@
+_repo: Contigo-Pan-y-Cebolla_12368
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gorostiza, Manuel Eduardo  de
+    alias: De Gorostiza, Manuel Eduardo
+    birthdate: 1789
+    deathdate: 1851
+    gutenberg_agent_id: '4341'
+    url: http://www.gutenberg.org/2009/agents/4341
+  editor:
+    agent_name: McGuire, Elizabeth
+    birthdate: 1879
+    gutenberg_agent_id: '4963'
+    url: http://www.gutenberg.org/2009/agents/4963
+description: With notes, exercises and vocabulary.
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12368'
+language:
+- es
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish language -- Readers'
+- !lcc 'PQ'
+- !lcc 'PC'
+- GITenberg
+title: Contigo Pan y Cebolla
+url: http://www.gutenberg.org/ebooks/12368
